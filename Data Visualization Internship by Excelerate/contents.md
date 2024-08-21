@@ -1,4 +1,4 @@
-Data Visualization Internship hosted by the Excelerate Organization
+## Data Visualization Internship hosted by the Excelerate Organization
 
 The internship was about how to leverage human visual perception to communicate data using different visualizations. 
 
